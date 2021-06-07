@@ -11,9 +11,11 @@
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "baseUrl": ".",
+    "noImplicitAny": false, // 是否默认禁用 any
     "types": [
       "webpack-env"
     ],
+    "typeRoots": ["./typings"],
     "paths": {
       "@/*": [
         "src/*"
@@ -30,8 +32,9 @@
     "src/**/*.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "layout/**/*.ts",
+    "layout/**/*.tsx",
+    "layout/**/*.vue"
   ],
   "exclude": [
     "node_modules"
