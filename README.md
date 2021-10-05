@@ -1,4 +1,4 @@
-# qiankun-main-seeai-vue-template-mobile
+# qiankun-sub-seeai-vue-template-mobile
 
 恒企SEEAI平台前端项目开发的通用乾坤微服务vue3子应用移动端模板([6+通用模板源](https://gitee.com/xccjh-zjh))，支持微服务多应用。
 
