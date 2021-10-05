@@ -749,3 +749,6 @@ export default defineComponent({
 </script>
 ```
 
+## seeai技术转型方案
+
+![](https://oss.xccjh.top/vuebloger/img/post/Snipaste_2021-06-15_16-57-39.png
